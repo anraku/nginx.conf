@@ -1,0 +1,2 @@
+# nginx.conf
+nginxのnginx.conf
